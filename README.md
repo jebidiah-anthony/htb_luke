@@ -391,7 +391,7 @@ PORT     STATE SERVICE VERSION
 
 ---
 
-PART 4 : GENERATE A ROOT SHELL
+## PART 4 : GENERATE A ROOT SHELL
 
 1. Create an active terminal using __*TOOLS*__ > __*Terminal*__:
 
